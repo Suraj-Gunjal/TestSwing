@@ -7,3 +7,9 @@ git branch
 git branch -M main
 git push origin main
 etc...
+
+Also there are commands for branches
+
+git branch
+git checkout -b <Branch name>
+git checkout -d <Branch name>
